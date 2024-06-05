@@ -1,0 +1,26 @@
+header{
+    background-image: url(-5278237352352928100_121.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 150vh;
+}
+ul a{
+    float: right;
+    text-transform: uppercase;
+    color: black;
+    border-radius: 6px;
+    text-decoration: none;
+    margin: 10px;
+    border: 1px solid transparent;
+    padding: 10px 20px;
+}
+ul a:hover{
+    color: white;
+    background:black;
+}  
+audio{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+}
+   
